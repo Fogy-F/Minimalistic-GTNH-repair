@@ -41,7 +41,7 @@
 > - [ ] Advanced Solar Panel.
 
 > __Ender IO__
-> - [x] 只更新管道部分,其他材质暂无考虑。
+> - [x] 只更新管道部分，其他材质暂无考虑。
 
 </details>
 
@@ -65,13 +65,17 @@
 
 所用软件：Aseprite & Photoshop & Visual Studio Code。
 
-如果原作者恢复更新请联系本人将此页面删除，联系方式QQ:2480564500。
+如果原作者恢复更新请联系本人将此页面删除，联系方式QQ：2480564500。
 
 ---
 
 ### 原地址
+[GTNH HuiJi Wiki](https://gtnh.huijiwiki.com/wiki/%E8%B5%84%E6%BA%90%E5%8C%85)
+
 [IC2 Forum Post (original MT)](https://forum.industrial-craft.net/thread/10612-16x-minimalist-technology-gt6-gt5e/)
 
 [Archived Forum Thread (GTNH MT)](https://web.archive.org/web/20230422125419/https://www.gtnewhorizons.com/forum/m/36844562/viewthread/32165079-minimalist-gt-v-010)
+
+[Minimalistic-GTNH-repair](https://github.com/Fogy-F/Minimalistic-GTNH-repair)
 
 [![](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
