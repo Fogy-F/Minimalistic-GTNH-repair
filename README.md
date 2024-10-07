@@ -1,46 +1,53 @@
 # Minimalistic-GTNH-repair
+
 极简主义修复版，目前修复仍在进行中。本意是打造一个相对干净整齐的16x材质包。
 
-目前持续更新修复的材质有：Gregtech和一些附属；IndustrialCraft2；Ender IO。
-
-附赠额外mod材质：[BetterTooltipBox](https://github.com/xiaoxing2005/BetterTooltipBox)提示框皮肤。
+目前持续更新修复的材质有：Gregtech 和一些附属；IndustrialCraft2；Ender IO。
 
 <details>
 
 > 部分机器展示：
 > 
-> （ps:网络波动可能无法显示请在仓库里下载查看。）
+> （ps:网络波动可能无法显示请在仓库里下载查看）。
 
 <summary><b>游戏截图</b>：展开</summary>
 
 <img src="https://github.com/Fogy-F/Minimalistic-GTNH-repair/blob/7ba62a0d7e5ed047afc00d068ae7b3cfbeb8a0b7/screenshots/2024-10-01_08.28.28.png"/>
 
-> （ps:不知道什么问题，开了光影之后机器上会有一层阴影，没光影是正常的。）
+> （ps:不知道什么问题，开了光影之后机器上会有一层阴影，没光影是正常的）。
 
 </details>
 
 <details>
 
-<summary><b>目前材质：</b>展开</summary>
+<summary><b>材质项目：</b>展开</summary>
 
 > __整合包版本__
 > 
 > `GT:New Horizons 2.6.1 Java8`
 
-> __Gregtech__
+> - [x] __附赠__
+> - 额外 mod 材质：[BetterTooltipBox](https://github.com/xiaoxing2005/BetterTooltipBox) 提示框皮肤。
+
+> - [ ] __-Gregtech-__
 > - [ ] GT++.
 > - [ ] BartWorks.
+> - [x] StructureLib.
 > - [ ] GigaGramFab.
-> - [ ] GalaxySpace.
-> - [ ] GT:New Horizons.
 > - [ ] Good Generator.
-> - [ ] GTNH-Intergalactic.
+> - [ ] GT:New Horizons.
+> - [x] GTNH-Intergalactic.
 > - [ ] TecTech-Tec Technology!.
+> - 以下涉及到某些物品，并不是全部更新。
+> - Galacticraft Planets.
+> - Galacticraft Core.
+> - GalaxySpace.
 
-> __IndustrialCraft2__
-> - [ ] Advanced Solar Panel.
+> - [ ] __-IndustrialCraft2-__
+> - [x] Advanced Solar Panel.
+> - [x] Super Solar Panel.
 
-> __Ender IO__
+> - [x] __-Ender IO-__
 > - [x] 只更新管道部分，其他材质暂无考虑。
 
 </details>
@@ -58,24 +65,44 @@
 
 </details>
 
+<details>
+
+<summary><b>某些问题：</b>展开</summary>
+
+> (Fogy 的絮絮叨叨)。
+
+材质项目里打勾的项目是已经完成更新的，未打勾是存在但没完全修复，
+
+里面有些并不是所有材质（包括：部分 gui & models & 沟槽的32x方块和物品）
+
+因为 Fogy 觉得有些材质没必要画（懒）但整体该有的都有了，除了正在更新的材质，错误的材质和一些细节。
+
+材质错误在 Issues 提出，材质重画需求可在 Discussions 提出。
+
+</details>
+
 ---
 
 ### 声明
+
 所有对原作的更新、修复、重画的材质均为原创的二次加工，无复制其它材质包。
 
-所用软件：Aseprite & Photoshop & Visual Studio Code。
+所用软件：`Aseprite` & `Photoshop` & `Visual Studio Code`。
 
-如果原作者恢复更新请联系本人将此页面删除，联系方式QQ：2480564500。
+这个材质包并不是 Fogy 原作，原作者停止更新，目前只是延续修复而已。
+
+如果原作者恢复更新请联系本人将此页面删除，联系方式 `QQ:2480564500`。
 
 ---
 
 ### 原地址
-[GTNH HuiJi Wiki](https://gtnh.huijiwiki.com/wiki/%E8%B5%84%E6%BA%90%E5%8C%85)
 
-[IC2 Forum Post (original MT)](https://forum.industrial-craft.net/thread/10612-16x-minimalist-technology-gt6-gt5e/)
+平台：[GTNH HuiJi Wiki](https://gtnh.huijiwiki.com/wiki/%E8%B5%84%E6%BA%90%E5%8C%85)
 
-[Archived Forum Thread (GTNH MT)](https://web.archive.org/web/20230422125419/https://www.gtnewhorizons.com/forum/m/36844562/viewthread/32165079-minimalist-gt-v-010)
+原作：[IC2 Forum Post (original MT)](https://forum.industrial-craft.net/thread/10612-16x-minimalist-technology-gt6-gt5e/)
 
-[Minimalistic-GTNH-repair](https://github.com/Fogy-F/Minimalistic-GTNH-repair)
+原作：[Archived Forum Thread (GTNH MT)](https://web.archive.org/web/20230422125419/https://www.gtnewhorizons.com/forum/m/36844562/viewthread/32165079-minimalist-gt-v-010)
+
+续作：[Minimalistic-GTNH-repair](https://github.com/Fogy-F/Minimalistic-GTNH-repair)
 
 [![](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
