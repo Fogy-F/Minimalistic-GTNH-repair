@@ -2,7 +2,7 @@
 
 极简主义修复版，目前修复仍在进行中。本意是打造一个相对干净整齐的16x材质包。
 
-目前持续更新修复的材质有：Gregtech 和一些附属；IndustrialCraft2；Ender IO。
+目前持续更新修复的材质有：Gregtech；IndustrialCraft2；Ender IO；部分相关附属。
 
 <details>
 
@@ -26,7 +26,7 @@
 > 
 > `GT:New Horizons 2.6.1 Java8`
 
-> - [x] __附赠__
+> - [x] __-附赠-__
 > - 额外 mod 材质：[BetterTooltipBox](https://github.com/xiaoxing2005/BetterTooltipBox) 提示框皮肤。
 
 > - [ ] __-Gregtech-__
@@ -39,13 +39,16 @@
 > - [x] GTNH-Intergalactic.
 > - [ ] TecTech-Tec Technology!.
 > - 以下涉及到某些物品，并不是全部更新。
+> - Electro-Magic Tools.
 > - Galacticraft Planets.
 > - Galacticraft Core.
 > - GalaxySpace.
 
 > - [ ] __-IndustrialCraft2-__
+> - [ ] Compact Kinetic Wind and Water Generators.
 > - [x] Advanced Solar Panel.
 > - [x] Super Solar Panel.
+> - [ ] AFSC Mod
 
 > - [x] __-Ender IO-__
 > - [x] 只更新管道部分，其他材质暂无考虑。
@@ -95,7 +98,11 @@
 
 ---
 
-### 原地址
+### 地址
+
+<img src="https://github.com/Fogy-F/Minimalistic-GTNH-repair/blob/64ae792b49038fda6c54d41b1c820217d3b5a317/screenshots/img.png" width="35%"/>
+
+项目：[GregTech: New Horizons](https://github.com/GTNewHorizons)
 
 平台：[GTNH HuiJi Wiki](https://gtnh.huijiwiki.com/wiki/%E8%B5%84%E6%BA%90%E5%8C%85)
 
