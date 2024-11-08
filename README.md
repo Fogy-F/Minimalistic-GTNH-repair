@@ -43,12 +43,13 @@
 > - Galacticraft Planets.
 > - Galacticraft Core.
 > - GalaxySpace.
+> - kubaTech.
 
 > - [ ] __-IndustrialCraft2-__
-> - [ ] Compact Kinetic Wind and Water Generators.
+> - [x] Compact Kinetic Wind and Water Generators.
 > - [x] Advanced Solar Panel.
 > - [x] Super Solar Panel.
-> - [ ] AFSC Mod
+> - [ ] AFSU Mod.
 
 > - [x] __-Ender IO-__
 > - [x] 只更新管道部分，其他材质暂无考虑。
