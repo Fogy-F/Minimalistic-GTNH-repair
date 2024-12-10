@@ -1,6 +1,6 @@
 # Minimalistic-GTNH-repair
 
-极简主义修复版，目前修复仍在进行中。本意是打造一个相对干净整齐的16x材质包。
+极简主义修复版。想让你的机器看上去整洁一点？可以试试这款材质包。
 
 目前持续更新修复的材质有：Gregtech；IndustrialCraft2；Ender IO；部分相关附属。
 
@@ -24,7 +24,7 @@
 
 > __整合包版本__
 > 
-> `GT:New Horizons 2.6.1 Java8`
+> `GT:New Horizons 2.7.0 Java8`
 
 > - [x] __-附赠-__
 > - 额外 mod 材质：[BetterTooltipBox](https://github.com/xiaoxing2005/BetterTooltipBox) 提示框皮肤。
@@ -36,6 +36,7 @@
 > - [ ] GigaGramFab.
 > - [ ] Good Generator.
 > - [ ] GT:New Horizons.
+> - [ ] GTNH: Lanthanides.
 > - [x] GTNH-Intergalactic.
 > - [ ] TecTech-Tec Technology!.
 > - 以下涉及到某些物品，并不是全部更新。
@@ -44,6 +45,7 @@
 > - Galacticraft Core.
 > - GalaxySpace.
 > - kubaTech.
+> - Railcraft.
 
 > - [ ] __-IndustrialCraft2-__
 > - [x] Compact Kinetic Wind and Water Generators.
@@ -89,6 +91,8 @@
 
 ### 声明
 
+[![](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+
 所有对原作的更新、修复、重画的材质均为原创的二次加工，无复制其它材质包。
 
 所用软件：`Aseprite` & `Photoshop` & `Visual Studio Code`。
@@ -112,5 +116,3 @@
 原作：[Archived Forum Thread (GTNH MT)](https://web.archive.org/web/20230422125419/https://www.gtnewhorizons.com/forum/m/36844562/viewthread/32165079-minimalist-gt-v-010)
 
 续作：[Minimalistic-GTNH-repair](https://github.com/Fogy-F/Minimalistic-GTNH-repair)
-
-[![](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
