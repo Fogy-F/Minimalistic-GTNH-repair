@@ -1,6 +1,6 @@
 # Minimalistic-GTNH-repair
 
-极简主义修复版。想让你的机器看上去整洁一点？可以试试这款材质包。
+极简主义修复版。想让你的机器看上去整洁一点？可以试试这款 16x 材质包。
 
 目前持续更新修复的材质有：Gregtech；IndustrialCraft2；Ender IO；部分相关附属。
 
@@ -106,6 +106,8 @@
 ### 地址
 
 <img src="https://github.com/Fogy-F/Minimalistic-GTNH-repair/blob/64ae792b49038fda6c54d41b1c820217d3b5a317/screenshots/img.png" width="35%"/>
+
+更新：[日志截图](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/1)
 
 项目：[GregTech: New Horizons](https://github.com/GTNewHorizons)
 
