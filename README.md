@@ -12,9 +12,7 @@
 
 <summary><b>游戏截图</b>：展开</summary>
 
-<img src="https://github.com/Fogy-F/Minimalistic-GTNH-repair/blob/7ba62a0d7e5ed047afc00d068ae7b3cfbeb8a0b7/screenshots/2024-10-01_08.28.28.png"/>
-
-> （ps:不知道什么问题，开了光影之后机器上会有一层阴影，没光影是正常的）。
+<img src="https://github.com/Fogy-F/Minimalistic-GTNH-repair/blob/998de4b553d321b7b32f12293f05751f03497fc2/screenshots/2024-12-15_13.52.04.png"/>
 
 </details>
 
