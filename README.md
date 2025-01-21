@@ -115,4 +115,6 @@
 
 原作：[Archived Forum Thread (GTNH MT)](https://web.archive.org/web/20230422125419/https://www.gtnewhorizons.com/forum/m/36844562/viewthread/32165079-minimalist-gt-v-010)
 
-续作：[Minimalistic-GTNH-repair](https://github.com/Fogy-F/Minimalistic-GTNH-repair)
+续作：[github:Minimalistic-GTNH-repair](https://github.com/Fogy-F/Minimalistic-GTNH-repair)
+
+续作：[gitee:Minimalistic-GTNH-repair](https://gitee.com/fogy-f/minimalistic-gtnh-repair)
