@@ -4,6 +4,8 @@
 
 目前持续更新修复的材质有：Gregtech；IndustrialCraft2；Ender IO；部分相关附属。
 
+材质测试整合包版本：`Gregtech: New Horizons：2.7.2`。
+
 <details>
 
 > 部分机器展示：
@@ -20,23 +22,20 @@
 
 <summary><b>材质项目：</b>展开</summary>
 
-> __整合包版本__
-> 
-> `GT:New Horizons 2.7.0 Java8`
+> __-附赠额外 mod 材质-__
+> - [Twist Space Technolgy Mod](https://github.com/Nxer/Twist-Space-Technology-Mod) 扭曲空间科技。
+> - [BetterTooltipBox](https://github.com/xiaoxing2005/BetterTooltipBox) 更好的提示框。
 
-> - [x] __-附赠-__
-> - 额外 mod 材质：[BetterTooltipBox](https://github.com/xiaoxing2005/BetterTooltipBox) 提示框皮肤。
-
-> - [ ] __-Gregtech-__
-> - [ ] GT++.
-> - [ ] BartWorks.
-> - [x] StructureLib.
-> - [ ] GigaGramFab.
-> - [ ] Good Generator.
-> - [ ] GT:New Horizons.
-> - [ ] GTNH: Lanthanides.
-> - [x] GTNH-Intergalactic.
-> - [ ] TecTech-Tec Technology!.
+> __-Gregtech-__
+> - GT++.
+> - BartWorks.
+> - StructureLib.
+> - GigaGramFab.
+> - Good Generator.
+> - GT:New Horizons.
+> - GTNH: Lanthanides.
+> - GTNH-Intergalactic.
+> - TecTech-Tec Technology!.
 > - 以下涉及到某些物品，并不是全部更新。
 > - Electro-Magic Tools.
 > - Galacticraft Planets.
@@ -45,14 +44,14 @@
 > - kubaTech.
 > - Railcraft.
 
-> - [ ] __-IndustrialCraft2-__
-> - [x] Compact Kinetic Wind and Water Generators.
-> - [x] Advanced Solar Panel.
-> - [x] Super Solar Panel.
-> - [ ] AFSU Mod.
+> __-IndustrialCraft2-__
+> - Compact Kinetic Wind and Water Generators.
+> - Advanced Solar Panel.
+> - Super Solar Panel.
+> - AFSU Mod.
 
-> - [x] __-Ender IO-__
-> - [x] 只更新管道部分，其他材质暂无考虑。
+> __-Ender IO-__
+> - 只更新管道部分，其他材质暂无考虑。
 
 </details>
 
@@ -75,9 +74,7 @@
 
 > (Fogy 的絮絮叨叨)。
 
-材质项目里打勾的项目是已经完成更新的，未打勾是存在但没完全修复，
-
-里面有些并不是所有材质（包括：部分 gui & models & 沟槽的32x方块和物品）
+项目材质并不是全部更新（包括：部分 gui & models & 沟槽的32x方块和物品等）
 
 因为 Fogy 觉得有些材质没必要画（懒）但整体该有的都有了，除了正在更新的材质，错误的材质和一些细节。
 
@@ -89,7 +86,7 @@
 
 ### 声明
 
-[![](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+[![](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 所有对原作的更新、修复、重画的材质均为原创的二次加工，无复制其它材质包。
 
