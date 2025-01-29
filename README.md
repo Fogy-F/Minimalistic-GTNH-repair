@@ -4,7 +4,7 @@
 
 目前持续更新修复的材质有：`Gregtech`；`IndustrialCraft2`；`Ender IO`；部分相关附属。
 
-其他模组材质分支 [`extend`](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/extend)。
+其他模组材质分支 [extend](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/extend)。
 材质变动：[日志截图](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/1)。
 材质需求：[意见反馈](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/2)。
 
