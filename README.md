@@ -1,13 +1,27 @@
+<div align="center">
+<a href="https://github.com/Fogy-F/Minimalistic-GTNH-repair">
+   <img src="https://github.com/Fogy-F/Minimalistic-GTNH-repair/blob/390d2a2a2add5910150b5d3c3cdcd61cf35eea19/screenshots/img.png" width="360"/>
+</a>
+
 # Minimalistic-GTNH-repair
 
 极简主义修复版。想让你的机器看上去整洁一点？可以试试这款 16x 材质包。
 
-材质分支 [extend](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/extend) &
-[gameUI](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/gameUI)。
-材质变动：[日志截图](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/1)。
-材质需求：[意见反馈](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/2)。
+[![](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-gray.svg?style=flat&labelColor=FBDA41)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![](https://img.shields.io/github/downloads/Fogy-F/Minimalistic-GTNH-repair/total?style=flat&label=Downloads&labelColor=FBDA41&color=gray)](../../releases/latest)
+[![](https://img.shields.io/github/release/Fogy-F/Minimalistic-GTNH-repair?style=flat&label=Releases&labelColor=FBDA41&color=gray)](../../releases/latest)
+[![](https://img.shields.io/badge/ModPack-GTNH--2.7.2-gray?style=flat&labelColor=FBDA41&color=gray)](http://downloads.gtnewhorizons.com/ClientPacks/)
 
-最新兼容整合包版本：`Gregtech: New Horizons：2.7.2`。
+| 材质分支 [extend](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/extend) &
+[gameUI](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/gameUI) |
+材质变动：[日志截图](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/1) |
+材质需求：[意见反馈](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/2) |
+
+</div>
+
+---
+
+### :blue_book: 内容
 
 <details>
 
@@ -55,7 +69,7 @@
 
 <details>
 
-<summary><b>推荐材质</b>：展开</b></summary>
+<summary><b>推荐材质</b>：展开</summary>
  
 > 界面UI：[`Modernity-GTNH-UI`](https://github.com/ABKQPO/Modernity-GTNH-UI)
 > 
@@ -66,39 +80,37 @@
 
 </details>
 
----
-
-### 声明
-
-[![](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-所有对原作的更新、修复、重画的材质均为原创的二次加工，无复制其它材质包。
-
-所用软件：`Aseprite` & `Photoshop` & `Visual Studio Code` & `XYplorer`。
-
-这个材质包并不是 `Fogy` 原作，原作者停止更新，目前只是延续修复而已。
-
-如果原作者恢复更新请联系本人将此页面删除，联系方式 `QQ:2480564500`。
-
 <details>
 
-<summary>其他的话：展开</summary>
+<summary><b>其他的话</b>：展开</summary>
 
-> (Fogy 的絮絮叨叨)。
+> (絮絮叨叨)。
 
 材质资源并不是全部更新，因为 `Fogy` 觉得有些材质没必要画（懒），
 
 但会着重注意整体内容，除了正在更新的材质，错误的材质和一些细节。
 
-想法和建议或者一起联机游戏都可以加我qq私聊哦，也可以在[discussions](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions)里提出。
+想法和建议或者一起联机游戏都可以加我 `QQ:2480564500` 私聊哦，
+
+也可以在 [`discussions`](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions) 里提出。
 
 </details>
 
 ---
 
-### 地址
+### :green_book: 声明
 
-<img src="https://github.com/Fogy-F/Minimalistic-GTNH-repair/blob/390d2a2a2add5910150b5d3c3cdcd61cf35eea19/screenshots/img.png" width="35%"/>
+所有对原作的更新、修复、重画的材质均为原创的二次加工，无复制其它材质包。
+
+材质包原作者 `Pyrolusite` 停止更新，目前由 `Fogy` 接手后续的更新和修复。
+
+如果原作者恢复更新请联系本人将此页面删除，联系方式 `QQ:2480564500`。
+
+所用软件：`Aseprite` & `Photoshop` & `Visual Studio Code` & `XYplorer`。
+
+---
+
+### :orange_book: 地址
 
 项目：[GregTech: New Horizons](https://github.com/GTNewHorizons)
 
