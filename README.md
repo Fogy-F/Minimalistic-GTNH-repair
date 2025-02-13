@@ -1,32 +1,45 @@
+<div align="center">
+<a href="https://github.com/Fogy-F/Minimalistic-GTNH-repair">
+   <img src="https://github.com/Fogy-F/Minimalistic-GTNH-repair/blob/390d2a2a2add5910150b5d3c3cdcd61cf35eea19/screenshots/img.png" width="360"/>
+</a>
+
 # Minimalistic-GTNH-repair
 
 极简主义修复版。想让你的机器看上去整洁一点？可以试试这款 16x 材质包。
 
-目前持续更新修复的材质有：`Gregtech`；`IndustrialCraft2`；`Ender IO`；部分相关附属。
+[![](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-gray.svg?style=flat&labelColor=FBDA41)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![](https://img.shields.io/github/downloads/Fogy-F/Minimalistic-GTNH-repair/total?style=flat&label=Downloads&labelColor=FBDA41&color=gray)](../../releases/latest)
+[![](https://img.shields.io/github/release/Fogy-F/Minimalistic-GTNH-repair?style=flat&label=Releases&labelColor=FBDA41&color=gray)](../../releases/latest)
+[![](https://img.shields.io/badge/ModPack-GTNH--2.7.2-gray?style=flat&labelColor=FBDA41&color=gray)](http://downloads.gtnewhorizons.com/ClientPacks/)
 
-其他模组材质分支 [extend](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/extend)。
-材质变动：[日志截图](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/1)。
-材质需求：[意见反馈](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/2)。
+| 材质分支 [extend](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/extend) &
+[gameUI](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/gameUI) |
+材质变动：[日志截图](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/1) |
+材质需求：[意见反馈](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/2) |
 
-材质测试整合包版本：`Gregtech: New Horizons：2.7.2`。
+</div>
+
+---
+
+### :blue_book: 内容
 
 <details>
 
 > 部分机器展示：
-> 
-> （ps:网络波动可能无法显示请在仓库里下载查看）。
 
 <summary><b>游戏截图</b>：展开</summary>
 
 <img src="https://github.com/Fogy-F/Minimalistic-GTNH-repair/blob/998de4b553d321b7b32f12293f05751f03497fc2/screenshots/2024-12-15_13.52.04.png"/>
 
+> <sub>（图片可能无法显示请在仓库里下载查看）。<sub/>
+
 </details>
 
 <details>
 
-<summary><b>材质项目：</b>展开</summary>
+<summary><b>材质项目</b>：展开</summary>
 
-> __-额外 mod 材质-__
+> __-额外模组材质-__
 > - [`Twist Space Technolgy Mod`](https://github.com/Nxer/Twist-Space-Technology-Mod) 扭曲空间科技。
 > - [`BetterTooltipBox`](https://github.com/xiaoxing2005/BetterTooltipBox) 更好的提示框。
 
@@ -45,62 +58,59 @@
 > - `GalaxySpace`
 
 > __`IndustrialCraft2`__
-> - `Compact Kinetic Wind and Water Generators`
-> - `Advanced Solar Panel`
-> - `Super Solar Panel`
 > - `AFSU Mod`
+> - `Super Solar Panel`
+> - `Advanced Solar Panel`
+> - `Compact Kinetic Wind and Water Generators`
 
 > __`Ender IO`__
-> - 只更新管道部分，其他材质暂无考虑。
 
 </details>
 
 <details>
 
-<summary><b>推荐材质：</b>展开</b></summary>
+<summary><b>推荐材质</b>：展开</summary>
  
 > 界面UI：[`Modernity-GTNH-UI`](https://github.com/ABKQPO/Modernity-GTNH-UI)
 > 
 > 高版本MC材质：[`Modernity`](https://www.curseforge.com/minecraft/texture-packs/modernity) &
 [`New Default+`](https://www.curseforge.com/minecraft/texture-packs/newdefaultplus)
 > 
-> 多mod材质（会覆盖部分）：[Unity](https://www.curseforge.com/minecraft/texture-packs/unity)
+> 多mod材质（会覆盖部分）：[`Unity`](https://www.curseforge.com/minecraft/texture-packs/unity)
 
 </details>
 
 <details>
 
-<summary><b>某些问题：</b>展开</summary>
+<summary><b>其他的话</b>：展开</summary>
 
-> (Fogy 的絮絮叨叨)。
+> (絮絮叨叨)。
 
-材质资源并不是全部更新（包括：部分界面；实体；沟槽的高分辨方块和物品等）
+材质资源并不是全部更新，因为 `Fogy` 觉得有些材质没必要画（懒），
 
-因为 `Fogy` 觉得有些材质没必要画（懒）但整体该有的都有了，
+但会着重注意整体内容，除了正在更新的材质，错误的材质和一些细节。
 
-除了正在更新的材质，错误的材质和一些细节。
+想法和建议或者一起联机游戏都可以加我 `QQ:2480564500` 私聊哦，
+
+也可以在 [`discussions`](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions) 里提出。
 
 </details>
 
 ---
 
-### 声明
-
-[![](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+### :green_book: 声明
 
 所有对原作的更新、修复、重画的材质均为原创的二次加工，无复制其它材质包。
 
-所用软件：`Aseprite` & `Photoshop` & `Visual Studio Code`。
-
-这个材质包并不是 `Fogy` 原作，原作者停止更新，目前只是延续修复而已。
+材质包原作者 `Pyrolusite` 停止更新，目前由 `Fogy` 接手后续的更新和修复。
 
 如果原作者恢复更新请联系本人将此页面删除，联系方式 `QQ:2480564500`。
 
+所用软件：`Aseprite` & `Photoshop` & `Visual Studio Code` & `XYplorer`。
+
 ---
 
-### 地址
-
-<img src="https://github.com/Fogy-F/Minimalistic-GTNH-repair/blob/64ae792b49038fda6c54d41b1c820217d3b5a317/screenshots/img.png" width="35%"/>
+### :orange_book: 地址
 
 项目：[GregTech: New Horizons](https://github.com/GTNewHorizons)
 
@@ -112,4 +122,4 @@
 
 续作：[github:Minimalistic-GTNH-repair](https://github.com/Fogy-F/Minimalistic-GTNH-repair)
 
-续作：[gitee:Minimalistic-GTNH-repair](https://gitee.com/fogy-f/minimalistic-gtnh-repair)
+备份：[gitee:Minimalistic-GTNH-repair](https://gitee.com/fogy-f/minimalistic-gtnh-repair)
