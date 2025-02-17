@@ -1,18 +1,18 @@
 <div align="center">
 <a href="https://github.com/Fogy-F/Minimalistic-GTNH-repair">
-   <img src="https://github.com/Fogy-F/Minimalistic-GTNH-repair/blob/390d2a2a2add5910150b5d3c3cdcd61cf35eea19/screenshots/img.png" width="360"/>
+   <img src="screenshots/img-gameUI.png" width="360"/>
 </a>
 
-# # Minimalistic-GTNH-gameUI
+# * Minimalistic-GTNH-gameUI *
 
 极简主义界面版。属于修复版(`repair`)项目之外的材质包。
 
 `Fogy`发现原作者是有`UI`这方面的涉及，所以打算复刻此项目。<b>目前不太推荐下载！</b>
 
 [![](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-gray.svg?style=flat&labelColor=FBDA41)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![](https://img.shields.io/github/downloads/Fogy-F/Minimalistic-GTNH-repair/total?style=flat&label=Downloads&labelColor=FBDA41&color=gray)](../../releases/latest)
-[![](https://img.shields.io/github/release/Fogy-F/Minimalistic-GTNH-repair?style=flat&label=Releases&labelColor=FBDA41&color=gray)](../../releases/latest)
-[![](https://img.shields.io/badge/ModPack-GTNH--2.7.2-gray?style=flat&labelColor=FBDA41&color=gray)](http://downloads.gtnewhorizons.com/ClientPacks/)
+[![](https://img.shields.io/github/downloads/Fogy-F/Minimalistic-GTNH-repair/total.svg?style=flat&label=Downloads&labelColor=FBDA41&color=gray)](../../releases/latest)
+[![](https://img.shields.io/github/release/Fogy-F/Minimalistic-GTNH-repair.svg?style=flat&label=Releases&labelColor=FBDA41&color=gray)](../../releases/latest)
+[![](https://img.shields.io/badge/ModPack-GTNH--2.7.2-gray.svg?style=flat&labelColor=FBDA41&color=gray)](http://downloads.gtnewhorizons.com/ClientPacks/)
 
 | 材质分支 [repair](https://github.com/Fogy-F/Minimalistic-GTNH-repair) &
 [extend](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/extend) |
@@ -27,7 +27,7 @@
 
 <details>
 
-> 部分机器展示：
+> 部分界面展示：
 
 <summary><b>游戏截图</b>：展开</summary>
 
