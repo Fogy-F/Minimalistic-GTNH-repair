@@ -29,7 +29,7 @@
 
 <summary><b>游戏截图</b>：展开</summary>
 
-<img src="screenshots/2024-12-15_13.52.04.png"/>
+<img src="screenshots/2025-02-23_00.42.34.png"/>
 
 > <sub>（图片可能无法显示请在仓库里下载查看）。<sub/>
 
