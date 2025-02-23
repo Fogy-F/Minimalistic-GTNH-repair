@@ -1,23 +1,23 @@
 <div align="center">
-<a href="https://github.com/Fogy-F/Minimalistic-GTNH-repair">
-   <img src="screenshots/img-gameUI.png" width="360"/>
+
+<a href="https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/gameUI">
+<img src="screenshots/img-gameUI.png" width="360"/>
 </a>
 
-# * Minimalistic-GTNH-gameUI *
+# Minimalistic-GTNH-gameUI*
 
 极简主义界面版。属于修复版(`repair`)项目之外的材质包。
 
 `Fogy`发现原作者是有`UI`这方面的涉及，所以打算复刻此项目。<b>目前不太推荐下载！</b>
 
-[![](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-gray.svg?style=flat&labelColor=FBDA41)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![](https://img.shields.io/github/downloads/Fogy-F/Minimalistic-GTNH-repair/total.svg?style=flat&label=Downloads&labelColor=FBDA41&color=gray)](../../releases/latest)
-[![](https://img.shields.io/github/release/Fogy-F/Minimalistic-GTNH-repair.svg?style=flat&label=Releases&labelColor=FBDA41&color=gray)](../../releases/latest)
-[![](https://img.shields.io/badge/ModPack-GTNH--2.7.2-gray.svg?style=flat&labelColor=FBDA41&color=gray)](http://downloads.gtnewhorizons.com/ClientPacks/)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-gray.svg?style=flat&labelColor=FBDA41)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![downloads](https://img.shields.io/github/downloads/Fogy-F/Minimalistic-GTNH-repair/total.svg?style=flat&label=Downloads&labelColor=FBDA41&color=gray)](../../releases/latest)
+[![Releases](https://img.shields.io/github/release/Fogy-F/Minimalistic-GTNH-repair.svg?style=flat&label=Releases&labelColor=FBDA41&color=gray)](../../releases/latest)
+[![ModPack](https://img.shields.io/badge/ModPack-GTNH--2.7.2-gray.svg?style=flat&labelColor=FBDA41&color=gray)](http://downloads.gtnewhorizons.com/ClientPacks/)
 
-| 材质分支 [repair](https://github.com/Fogy-F/Minimalistic-GTNH-repair) &
-[extend](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/extend) |
-材质变动：[日志截图](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/1) |
-材质需求：[意见反馈](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/2) |
+| 材质分支 [repair](https://github.com/Fogy-F/Minimalistic-GTNH-repair) & [extend](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/extend)
+| 材质变动：[日志截图](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/1)
+| 材质需求：[意见反馈](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/2) |
 
 </div>
 
@@ -48,12 +48,11 @@
 <details>
 
 <summary><b>推荐材质</b>：展开</summary>
- 
+
 > 界面UI：[`Modernity-GTNH-UI`](https://github.com/ABKQPO/Modernity-GTNH-UI)
-> 
-> 高版本MC材质：[`Modernity`](https://www.curseforge.com/minecraft/texture-packs/modernity) &
-[`New Default+`](https://www.curseforge.com/minecraft/texture-packs/newdefaultplus)
-> 
+>
+> 高版本MC材质：[`Modernity`](https://www.curseforge.com/minecraft/texture-packs/modernity) & [`New Default+`](https://www.curseforge.com/minecraft/texture-packs/newdefaultplus)
+>
 > 多mod材质（会覆盖部分）：[`Unity`](https://www.curseforge.com/minecraft/texture-packs/unity)
 
 </details>
