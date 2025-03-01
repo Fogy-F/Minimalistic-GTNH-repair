@@ -1,0 +1,16 @@
+//Expermiental Cases
+expInfo.eatingPlant.name=Eating Plant eats from Entites and produces Rotten Flesh. %n Mountain and Swam biome increase growth time.
+
+//Classic Cases
+classicInfo.requiresAir.name=Requires %s Air Blocks around him to grow. %n (Same Y Level)
+
+//Shared Cases
+info.requiresLight.name=Requires %s Light Level to grow
+info.requiresSpecialLight.name=Requires a Light Level between %1$s - %2$s to grow
+info.requiresSoilBlock.name=Requires %s as a Soil Block to grow
+info.requiresSoilBlockExtension.name=%s can also be used as Soil
+info.requiresNutrient.name=Requires Nutrient (%s points). %n Either a Wet Biome or Soil %n (Dirt under the Farmland. Max 3)
+info.requiresHydration.name=Requires Hydration (%s points). %n Either a Wet Biome or Hydrated Soil (applies 2 Point)
+
+info.extraCropInfoKey.name=Press "Ctrl" for extra Info
+info.extraCropInfo.name=Extra Requirement Information:
