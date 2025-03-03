@@ -8,12 +8,12 @@
 
 极简主义界面版。属于修复版(`repair`)项目之外的材质包。
 
-`Fogy`发现原作者是有`UI`这方面的涉及，所以打算复刻此项目。<b>目前不太推荐下载！</b>
+`Fogy`发现原作者是有`UI`这方面的涉及，所以打算复刻此项目。
 
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-gray.svg?style=flat&labelColor=FBDA41)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![downloads](https://img.shields.io/github/downloads/Fogy-F/Minimalistic-GTNH-repair/total.svg?style=flat&label=Downloads&labelColor=FBDA41&color=gray)](../../releases/latest)
 [![Releases](https://img.shields.io/github/release/Fogy-F/Minimalistic-GTNH-repair.svg?style=flat&label=Releases&labelColor=FBDA41&color=gray)](../../releases/latest)
-[![ModPack](https://img.shields.io/badge/ModPack-GTNH--2.7.2-gray.svg?style=flat&labelColor=FBDA41&color=gray)](http://downloads.gtnewhorizons.com/ClientPacks/)
+[![ModPack](https://img.shields.io/badge/ModPack-GTNH--2.7.3-gray.svg?style=flat&labelColor=FBDA41&color=gray)](http://downloads.gtnewhorizons.com/ClientPacks/)
 
 | 材质分支 [repair](https://github.com/Fogy-F/Minimalistic-GTNH-repair) & [extend](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/extend)
 | 材质变动：[日志截图](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/1)
