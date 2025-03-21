@@ -47,7 +47,8 @@
 > __`Gregtech`__
 >
 > - `GT++`
-> - `kubaTech`
+> - `KekzTech`
+> - `KubaTech`
 > - `BartWorks`
 > - `BC Silicon`
 > - `GigaGramFab`
