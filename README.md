@@ -33,7 +33,7 @@ Want to keep your machine looking cleaner and more organized? Try this 16x resou
 
 <img src="screenshots/2025-03-27_13.21.13.png"/>
 
-> <sub>(The image may not display, please download it in git).<sub/>
+> <sub>(The image may not display, please download it in git)<sub/>
 
 </details>
 
@@ -87,9 +87,9 @@ Want to keep your machine looking cleaner and more organized? Try this 16x resou
 
 <details>
 
-<summary><b>Other</b>: unfold</summary>
+<summary><b>other</b>: unfold</summary>
 
-> (Long-winded).
+> (Long-winded)
 
 This resource pack isn't fully updated, as `Fogy` believes some textures simply don't need redesigning (lazy).
 
