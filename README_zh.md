@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/Fogy-F/Minimalistic-GTNH-repair">
-<img src="screenshots/img-repair.png" width="360"/>
+<img src="screenshots/img-repair.jpg" width="300"/>
 </a>
 
 # Minimalistic-GTNH-repair
@@ -27,9 +27,9 @@
 
 <details>
 
-> 部分机器展示：
-
 <summary><b>游戏截图</b>：展开</summary>
+
+> 部分机器展示：
 
 <img src="screenshots/2025-03-27_13.21.13.png"/>
 

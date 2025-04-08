@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/Fogy-F/Minimalistic-GTNH-repair">
-<img src="screenshots/img-repair.png" width="360"/>
+<img src="screenshots/img-repair.jpg" width="300"/>
 </a>
 
 # Minimalistic-GTNH-repair
@@ -27,9 +27,9 @@ Want to keep your machine looking cleaner and more organized? Try this 16x resou
 
 <details>
 
-> Partial machine display:
-
 <summary><b>game screenshots</b>: unfold</summary>
+
+> Partial machine display:
 
 <img src="screenshots/2025-03-27_13.21.13.png"/>
 
