@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/gameUI">
-<img src="screenshots/img-gameUI.png" width="360"/>
+<img src="screenshots/img-gameUI.jpg" width="300"/>
 </a>
 
 # Minimalistic-GTNH-gameUI*
