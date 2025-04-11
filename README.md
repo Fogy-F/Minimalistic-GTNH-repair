@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/extend">
-<img src="screenshots/img-extend.png" width="360"/>
+<img src="screenshots/img-extend.jpg" width="300"/>
 </a>
 
 # Minimalistic-GTNH-extend*
