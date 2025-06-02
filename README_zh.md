@@ -13,10 +13,10 @@
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-gray.svg?style=flat&labelColor=FBDA41)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![downloads](https://img.shields.io/github/downloads/Fogy-F/Minimalistic-GTNH-repair/total.svg?style=flat&label=Downloads&labelColor=FBDA41&color=gray)](../../releases/latest)
 [![Releases](https://img.shields.io/github/release/Fogy-F/Minimalistic-GTNH-repair.svg?style=flat&label=Releases&labelColor=FBDA41&color=gray)](../../releases/latest)
-[![ModPack](https://img.shields.io/badge/ModPack-GTNH--2.7.3-gray.svg?style=flat&labelColor=FBDA41&color=gray)](http://downloads.gtnewhorizons.com/ClientPacks/)
+[![ModPack](https://img.shields.io/badge/ModPack-GTNH--2.7.4-gray.svg?style=flat&labelColor=FBDA41&color=gray)](http://downloads.gtnewhorizons.com/ClientPacks/)
 
 | 材质分支 [extend](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/extend) & [gameUI](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/gameUI)
-| 材质变动：[日志截图](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/1)
+| 材质变动：[日志截图](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/1?sort=new)
 | 材质需求：[意见反馈](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/2) |
 
 </div>
