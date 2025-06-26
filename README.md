@@ -33,6 +33,10 @@ Want to keep your machine looking cleaner and more organized? Try this 16x resou
 
 <img src="screenshots/2025-03-27_13.21.13.png"/>
 
+> Order of resource pack:
+
+<img src="screenshots/2025-06-26_14-58-59.png"/>
+
 > <sub>(The image may not display, please download it in git)<sub/>
 
 </details>

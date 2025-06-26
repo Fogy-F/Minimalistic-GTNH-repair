@@ -33,6 +33,10 @@
 
 <img src="screenshots/2025-03-27_13.21.13.png"/>
 
+> 材质包顺序：
+
+<img src="screenshots/2025-06-26_14-58-59.png"/>
+
 > <sub>（图片可能无法显示请在仓库里下载查看）。<sub/>
 
 </details>
