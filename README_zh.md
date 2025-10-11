@@ -43,34 +43,6 @@
 
 </details>
 
-<details>
-
-<summary><b>推荐材质</b>：展开</summary>
-
-> 界面UI：[`Modernity-GTNH-UI`](https://github.com/ABKQPO/Modernity-GTNH-UI)
->
-> 高版本MC材质：[`Modernity`](https://www.curseforge.com/minecraft/texture-packs/modernity) & [`New Default+`](https://www.curseforge.com/minecraft/texture-packs/newdefaultplus)
->
-> 多mod材质（会覆盖部分）：[`Unity`](https://www.curseforge.com/minecraft/texture-packs/unity)
-
-</details>
-
-<details>
-
-<summary><b>其他的话</b>：展开</summary>
-
-> (絮絮叨叨)。
-
-材质资源并不是全部更新，因为 `Fogy` 觉得有些材质没必要画（懒），
-
-但会着重注意整体内容，除了正在更新的材质，错误的材质和一些细节。
-
-想法和建议或者一起联机游戏都可以加我 `QQ:2480564500` 私聊哦，
-
-也可以在 [`discussions`](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions) 里提出。
-
-</details>
-
 ---
 
 ### :green_book: 声明

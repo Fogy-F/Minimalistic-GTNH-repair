@@ -43,32 +43,6 @@ project under construction...
 
 </details>
 
-<details>
-
-<summary><b>recommend</b>: unfold</summary>
-
-> UI: [`Modernity-GTNH-UI`](https://github.com/ABKQPO/Modernity-GTNH-UI)
->
-> High version MC resource: [`Modernity`](https://www.curseforge.com/minecraft/texture-packs/modernity) & [`New Default+`](https://www.curseforge.com/minecraft/texture-packs/newdefaultplus)
->
->Mod Support resource(Covered part): [`Unity`](https://www.curseforge.com/minecraft/texture-packs/unity)
-
-</details>
-
-<details>
-
-<summary><b>other</b>: unfold</summary>
-
-> (Long-winded)
-
-This resource pack isn't fully updated, as `Fogy` believes some textures simply don't need redesigning (lazy).
-
-However, we prioritize overall consistency by focusing on fixing inaccuracies, polishing critical details, and maintaining compatibility with ongoing updates.
-
-Feel free to share ideas or suggestions in the [`discussions`](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions) section.
-
-</details>
-
 ---
 
 ### :green_book: statement
