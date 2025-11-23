@@ -15,15 +15,24 @@
 [![Releases](https://img.shields.io/github/release/Fogy-F/Minimalistic-GTNH-repair.svg?style=flat&label=Releases&labelColor=FBDA41&color=gray)](../../releases/latest)
 [![ModPack](https://img.shields.io/badge/ModPack-GTNH--2.8.1-gray.svg?style=flat&labelColor=FBDA41&color=gray)](http://downloads.gtnewhorizons.com/ClientPacks/)
 
-| 材质分支 [extend](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/extend) & [gameUI](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/gameUI)
-| 材质变动：[日志截图](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/1?sort=new)
-| 材质需求：[意见反馈](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/2) |
-
 </div>
 
 ---
 
 ### :blue_book: 内容
+
+> <h4>材质包项目</h4>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;材质变动：[log screenshot](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/1?sort=new)。
+&nbsp;
+材质需求：[feedback](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/2)。
+
+| 项目 | 内容介绍 | 分支下载 |
+| :---: | --- | :---: |
+| <b>repair</b> | GT & IC2 & EnderIO & 附属模组 | [repair](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/repair) |
+| <b>extend</b> | 其他模组 & (优先容器模组) | [extend](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/extend) |
+| <b>gameUI</b> | 整个游戏的用户界面 | [gameUI](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/gameUI) |
+| <b>integrate</b> | 以上所有项目材质的整合 | [integrate](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/integrate) |
 
 > <h4>部分机器展示：</h4>
 

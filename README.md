@@ -15,15 +15,24 @@ Want to keep your machine looking cleaner and more organized? Try this 16x resou
 [![Releases](https://img.shields.io/github/release/Fogy-F/Minimalistic-GTNH-repair.svg?style=flat&label=Releases&labelColor=FBDA41&color=gray)](../../releases/latest)
 [![ModPack](https://img.shields.io/badge/ModPack-GTNH--2.8.1-gray.svg?style=flat&labelColor=FBDA41&color=gray)](http://downloads.gtnewhorizons.com/ClientPacks/)
 
-| branch: [extend](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/extend) & [gameUI](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/gameUI)
-| change: [log screenshot](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/1?sort=new)
-| demand: [feedback](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/2) |
-
 </div>
 
 ---
 
 ### :blue_book: main content
+
+> <h4>Resourcepack project</h4>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;textures change: [log screenshot](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/1?sort=new).
+&nbsp;
+textures demand: [feedback](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/2).
+
+| project | content introduction | branches download |
+| :---: | --- | :---: |
+| <b>repair</b> | GT & IC2 & EnderIO & relations mods | [repair](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/repair) |
+| <b>extend</b> | other mods & (Priority container mods) | [extend](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/extend) |
+| <b>gameUI</b> | All the UI of the entire game | [gameUI](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/gameUI) |
+| <b>integrate</b> | Integration of all of the above projects | [integrate](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/integrate) |
 
 > <h4>Partial machine display:</h4>
 
