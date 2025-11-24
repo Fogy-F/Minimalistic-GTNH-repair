@@ -21,7 +21,7 @@ Want to keep your machine looking cleaner and more organized? Try this 16x resou
 
 ### :blue_book: main content
 
-> <h4>Resourcepack project</h4>
+> <h4>Resourcepack project:</h4>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;textures change: [log screenshot](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/1?sort=new).
 &nbsp;
@@ -34,10 +34,11 @@ textures demand: [feedback](https://github.com/Fogy-F/Minimalistic-GTNH-repair/d
 | <b>gameUI</b> | All the UI of the entire game | [gameUI](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/gameUI) |
 | <b>integrate</b> | Integration of all of the above projects | [integrate](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/integrate) |
 
+</br>
+
 > <h4>Partial machine display:</h4>
 
 <img src="screenshots/screenshots.png"/>
-
 
 </br>
 

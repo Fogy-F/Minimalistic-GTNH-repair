@@ -21,7 +21,7 @@
 
 ### :blue_book: 内容
 
-> <h4>材质包项目</h4>
+> <h4>材质包项目：</h4>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;材质变动：[log screenshot](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/1?sort=new)。
 &nbsp;
@@ -33,6 +33,8 @@
 | <b>extend</b> | 其他模组 & (优先容器模组) | [extend](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/extend) |
 | <b>gameUI</b> | 整个游戏的用户界面 | [gameUI](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/gameUI) |
 | <b>integrate</b> | 以上所有项目材质的整合 | [integrate](https://github.com/Fogy-F/Minimalistic-GTNH-repair/tree/integrate) |
+
+</br>
 
 > <h4>部分机器展示：</h4>
 
