@@ -6,7 +6,7 @@
 <img src="screenshots/img-repair.jpg" width="300"/>
 </a>
 
-# Minimalistic-GTNH-repair
+# Minimalistic-GTNH-integrate*
 
 极简主义修复版。想让你的机器看上去整洁一点？可以试试这款 16x 材质包。
 

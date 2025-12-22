@@ -6,7 +6,7 @@
 <img src="screenshots/img-repair.jpg" width="300"/>
 </a>
 
-# Minimalistic-GTNH-repair
+# Minimalistic-GTNH-integrate*
 
 Want to keep your machine looking cleaner and more organized? Try this 16x resource pack.
 
