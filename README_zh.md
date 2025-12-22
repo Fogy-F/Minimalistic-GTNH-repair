@@ -15,7 +15,7 @@
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-gray.svg?style=flat&labelColor=FBDA41)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![downloads](https://img.shields.io/github/downloads/Fogy-F/Minimalistic-GTNH-repair/total.svg?style=flat&label=Downloads&labelColor=FBDA41&color=gray)](../../releases/latest)
 [![Releases](https://img.shields.io/github/release/Fogy-F/Minimalistic-GTNH-repair.svg?style=flat&label=Releases&labelColor=FBDA41&color=gray)](../../releases/latest)
-[![ModPack](https://img.shields.io/badge/ModPack-GTNH--2.8.1-gray.svg?style=flat&labelColor=FBDA41&color=gray)](http://downloads.gtnewhorizons.com/ClientPacks/)
+[![ModPack](https://img.shields.io/badge/ModPack-GTNH--2.8.3-gray.svg?style=flat&labelColor=FBDA41&color=gray)](http://downloads.gtnewhorizons.com/ClientPacks/)
 
 </div>
 
