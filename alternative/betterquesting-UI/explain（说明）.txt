@@ -1,0 +1,11 @@
+Drag the [betterquesting] folder into the game's configuration folder:  ...\config\
+
+Or place the [minimalistic_bq] folder within the compressed package into the 
+game's configuration folder:  ...\config\betterquesting\resources\
+
+
+
+将 [betterquesting] 文件夹拖入游戏的配置文件夹：...\config\
+
+或者将压缩包内的 [minimalistic_bq] 文件夹
+放入游戏的配置文件夹： ...\config\betterquesting\resources\

@@ -1,0 +1,325 @@
+[
+    {
+    "themeParent":"none",
+    "themeName":"minimalistic_bq",
+    "themeID":"minimalistic_bq",
+    "textures":
+    {
+      "betterquesting:panel_main":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "minimalistic_bq:textures/gui/minimalistic_bq.png",
+        "bounds": [0,0,48,48],
+        "padding": [4,4,4,4],
+        "sliceMode": 1
+      },
+      "betterquesting:btn_normal_0":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "minimalistic_bq:textures/gui/minimalistic_bq.png",
+        "bounds": [48,0,200,20],
+        "padding": [2,2,2,2],
+        "sliceMode": 1
+      },
+      "betterquesting:btn_normal_1":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "minimalistic_bq:textures/gui/minimalistic_bq.png",
+        "bounds": [48,20,200,20],
+        "padding": [2,2,2,2],
+        "sliceMode": 1
+      },
+      "betterquesting:btn_normal_2":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "minimalistic_bq:textures/gui/minimalistic_bq.png",
+        "bounds": [48,40,200,20],
+        "padding": [2,2,2,2],
+        "sliceMode": 1
+      },
+      "betterquesting:btn_clean_0":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "minimalistic_bq:textures/gui/minimalistic_bq.png",
+        "bounds": [48,0,200,20],
+        "padding": [2,2,2,2],
+        "sliceMode": 1
+      },
+      "betterquesting:btn_clean_1":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "minimalistic_bq:textures/gui/minimalistic_bq.png",
+        "bounds": [48,20,200,20],
+        "padding": [2,2,2,2],
+        "sliceMode": 1
+      },
+      "betterquesting:btn_clean_2":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "minimalistic_bq:textures/gui/minimalistic_bq.png",
+        "bounds": [48,40,200,20],
+        "padding": [2,2,2,2],
+        "sliceMode": 1
+      },
+      "betterquesting:scroll_v_bg":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "minimalistic_bq:textures/gui/minimalistic_bq.png",
+        "bounds": [248,0,8,60],
+        "padding": [1,1,1,1],
+        "sliceMode": 2
+      },
+      "betterquesting:scroll_v_0":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "minimalistic_bq:textures/gui/minimalistic_bq.png",
+        "bounds": [248,60,8,20],
+        "padding": [1,1,1,1],
+        "sliceMode": 2
+      },
+      "betterquesting:scroll_v_1":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "minimalistic_bq:textures/gui/minimalistic_bq.png",
+        "bounds": [248,60,8,20],
+        "padding": [1,1,1,1],
+        "sliceMode": 2
+      },
+      "betterquesting:scroll_v_2":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "minimalistic_bq:textures/gui/minimalistic_bq.png",
+        "bounds": [248,60,8,20],
+        "padding": [1,1,1,1],
+        "sliceMode": 2
+      },
+      "betterquesting:item_frame":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "minimalistic_bq:textures/gui/minimalistic_bq.png",
+        "bounds": [0,48,18,18],
+        "padding": [1,1,1,1],
+        "sliceMode": 2
+      },
+      "betterquesting:aux_frame_0":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "minimalistic_bq:textures/gui/minimalistic_bq.png",
+        "bounds": [0,128,124,124],
+        "padding": [2,2,2,2],
+        "sliceMode": 1
+      },
+      "betterquesting:quest_norm_0":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "minimalistic_bq:textures/gui/minimalistic_bq.png",
+        "bounds": [0,104,24,24],
+        "padding": [2,2,2,2],
+        "sliceMode": 2
+      },
+      "betterquesting:quest_norm_1":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "minimalistic_bq:textures/gui/minimalistic_bq.png",
+        "bounds": [0,104,24,24],
+        "padding": [2,2,2,2],
+        "sliceMode": 2
+      },
+      "betterquesting:quest_norm_2":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "minimalistic_bq:textures/gui/minimalistic_bq.png",
+        "bounds": [0,104,24,24],
+        "padding": [2,2,2,2],
+        "sliceMode": 2
+      },
+      "betterquesting:quest_norm_3":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "minimalistic_bq:textures/gui/minimalistic_bq.png",
+        "bounds": [0,104,24,24],
+        "padding": [2,2,2,2],
+        "sliceMode": 2
+      },
+      "betterquesting:quest_main_0":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "minimalistic_bq:textures/gui/minimalistic_bq.png",
+        "bounds": [24,104,24,24],
+        "padding": [1,1,1,1],
+        "sliceMode": 2
+      },
+      "betterquesting:quest_main_1":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "minimalistic_bq:textures/gui/minimalistic_bq.png",
+        "bounds": [24,104,24,24],
+        "padding": [1,1,1,1],
+        "sliceMode": 2
+      },
+      "betterquesting:quest_main_2":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "minimalistic_bq:textures/gui/minimalistic_bq.png",
+        "bounds": [24,104,24,24],
+        "padding": [1,1,1,1],
+        "sliceMode": 2
+      },
+      "betterquesting:quest_main_3":
+      {
+        "textureType": "betterquesting:texture_sliced",
+        "atlas": "minimalistic_bq:textures/gui/minimalistic_bq.png",
+        "bounds": [24,104,24,24],
+        "padding": [1,1,1,1],
+        "sliceMode": 2
+      }
+    },
+    "colors":
+    {
+      "betterquesting:text_header":
+      {
+        "colorType": "betterquesting:color_static",
+        "color": "FF05DE8B"
+      },
+      "betterquesting:text_main":
+      {
+        "colorType": "betterquesting:color_static",
+        "color": "FFFFFFFF"
+      },
+      "betterquesting:gui_divider":
+      {
+        "colorType": "betterquesting:color_static",
+        "color": "FFFFFFFF"
+      },
+      "betterquesting:grid_major":
+      {
+        "colorType": "betterquesting:color_static",
+        "color": "FF000000"
+      },
+      "betterquesting:grid_minor":
+      {
+        "colorType": "betterquesting:color_static",
+        "color": "FF000000"
+      },
+      "betterquesting:quest_line_locked"://线未解锁
+      {
+        "colorType": "betterquesting:color_static",
+        "color": "FF3A3A3A"
+      },
+      "betterquesting:quest_line_unlocked"://线已解锁
+      {
+        "colorType": "betterquesting:color_pulse",//支线未完成
+        "period": 3.0,
+        "phase": 0.0,
+        "color1":
+        {
+          "colorType": "betterquesting:color_static",
+          "color": "FFa1afc9"
+        },
+        "color2":
+        {
+          "colorType": "betterquesting:color_static",
+          "color": "FFa1afc9"
+        }
+      },
+      "betterquesting:quest_line_pending"://线已解锁
+      {
+        "colorType": "betterquesting:color_static",
+        "color": "FF05DE8B"
+      },
+      "betterquesting:quest_line_complete"://线完成
+      {
+        "colorType": "betterquesting:color_static",
+        "color": "FF776F6F"
+      },
+      "betterquesting:quest_icon_locked":
+      {
+        "colorType": "betterquesting:color_static",//任务未解锁
+        "color": "FF808080"
+      },
+      "betterquesting:quest_icon_unlocked"://待完成的任务
+      {
+        "colorType": "betterquesting:color_pulse",
+        "period": 1.0,
+        "phase": 0.0,
+        "color1":
+        {
+          "colorType": "betterquesting:color_static",
+          "color": "FFa1afc9"
+        },
+        "color2":
+        {
+          "colorType": "betterquesting:color_static",
+          "color": "FFa1afc9"
+        }
+      },
+      "betterquesting:quest_icon_pending"://任务未领取
+      {
+        "colorType": "betterquesting:color_pulse",
+        "period": 3.0,
+        "phase": 0.0,
+        "color1":
+        {
+          "colorType": "betterquesting:color_static",
+          "color": "FFFFFFFF"
+        },
+        "color2":
+        {
+          "colorType": "betterquesting:color_static",
+          "color": "FF000000"
+        }
+      },
+      "betterquesting:quest_icon_complete"://任务完成
+      {
+        "colorType": "betterquesting:color_static",
+        "color": "FF05DE8B"
+      }
+    },
+    "lines":
+    {
+      "betterquesting:gui_divider":
+      {
+        "lineType": "betterquesting:line_simple",
+        "stippleScale": 1,
+        "stippleMask": "1111111111111111"
+      },
+      "betterquesting:grid_major":
+      {
+        "lineType": "betterquesting:line_simple",
+        "stippleScale": 1,
+        "stippleMask": "1111111111111111"
+      },
+      "betterquesting:grid_minor":
+      {
+        "lineType": "betterquesting:line_simple",
+        "stippleScale": 2,
+        "stippleMask": "1010101010101010"
+      },
+      "betterquesting:quest_locked":
+      {
+        "lineType": "betterquesting:line_simple",
+        "stippleScale": 1,
+        "stippleMask": "1111111111111111"
+      },
+      "betterquesting:quest_unlocked":
+      {
+        "lineType": "betterquesting:line_simple",
+        "stippleScale": 1,
+        "stippleMask": "1111111111111111"
+      },
+      "betterquesting:quest_pending":
+      {
+        "lineType": "betterquesting:line_simple",
+        "stippleScale": 1,
+        "stippleMask": "1111111111111111"
+      },
+      "betterquesting:quest_complete":
+      {
+        "lineType": "betterquesting:line_simple",
+        "stippleScale": 1,
+        "stippleMask": "1111111111111111"
+      }
+    }
+    
+  }
+]
