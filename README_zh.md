@@ -15,7 +15,7 @@
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-gray.svg?style=flat&labelColor=FBDA41)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![downloads](https://img.shields.io/github/downloads/Fogy-F/Minimalistic-GTNH-repair/total.svg?style=flat&label=Downloads&labelColor=FBDA41&color=gray)](../../releases/latest)
 [![Releases](https://img.shields.io/github/release/Fogy-F/Minimalistic-GTNH-repair.svg?style=flat&label=Releases&labelColor=FBDA41&color=gray)](../../releases/latest)
-[![ModPack](https://img.shields.io/badge/ModPack-GTNH--2.8.4-gray.svg?style=flat&labelColor=FBDA41&color=gray)](http://downloads.gtnewhorizons.com/ClientPacks/)
+[![ModPack](https://img.shields.io/badge/ModPack-GTNH--2.8.4-gray.svg?style=flat&labelColor=FBDA41&color=gray)](https://www.gtnewhorizons.com/downloads/)
 
 </div>
 
@@ -25,9 +25,7 @@
 
 > <h4>材质包项目：</h4>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;材质变动：[log screenshot](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/1?sort=new)。
-&nbsp;
-材质需求：[feedback](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/2)。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;材质需求：[feedback](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/2)。
 
 | 项目 | 内容介绍 | 分支下载 |
 | :---: | --- | :---: |
