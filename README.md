@@ -13,7 +13,7 @@ Want to keep your machine looking cleaner and more organized? Try this 16x resou
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-gray.svg?style=flat&labelColor=FBDA41)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![downloads](https://img.shields.io/github/downloads/Fogy-F/Minimalistic-GTNH-repair/total.svg?style=flat&label=Downloads&labelColor=FBDA41&color=gray)](../../releases/latest)
 [![Releases](https://img.shields.io/github/release/Fogy-F/Minimalistic-GTNH-repair.svg?style=flat&label=Releases&labelColor=FBDA41&color=gray)](../../releases/latest)
-[![ModPack](https://img.shields.io/badge/ModPack-GTNH--2.8.4-gray.svg?style=flat&labelColor=FBDA41&color=gray)](https://gtnhdown.gaytnh.com/Multi_mc_downloads/)
+[![ModPack](https://img.shields.io/badge/ModPack-GTNH--2.8.4-gray.svg?style=flat&labelColor=FBDA41&color=gray)](https://www.gtnewhorizons.com/downloads/)
 
 </div>
 
@@ -23,8 +23,7 @@ Want to keep your machine looking cleaner and more organized? Try this 16x resou
 
 > <h4>Resourcepack project:</h4>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;textures change: [log screenshot](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/1?sort=new).
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 textures demand: [feedback](https://github.com/Fogy-F/Minimalistic-GTNH-repair/discussions/2).
 
 | project | content introduction | branches download |
