@@ -59,12 +59,18 @@
 
 项目：[GregTech: New Horizons](https://github.com/GTNewHorizons)
 
-平台：[GTNH HuiJi Wiki](https://gtnh.huijiwiki.com/wiki/%E8%B5%84%E6%BA%90%E5%8C%85)
+平台：[GTNH Wiki](https://wiki.gtnewhorizons.com/wiki/Resource_Packs)
+
+平台：[GTNH HuiJi Wiki](https://gtnh.huijiwiki.com/wiki/%E8%B5%84%E6%BA%90%E5%8C%85%E4%B8%8E%E5%85%89%E5%BD%B1)
 
 原作：[IC2 Forum Post (original MT)](https://forum.industrial-craft.net/thread/10612-16x-minimalist-technology-gt6-gt5e/)
 
 原作：[Archived Forum Thread (GTNH MT)](https://web.archive.org/web/20230422125419/https://www.gtnewhorizons.com/forum/m/36844562/viewthread/32165079-minimalist-gt-v-010)
 
-续作：[github:Minimalistic-GTNH-repair](https://github.com/Fogy-F/Minimalistic-GTNH-repair)
+原作下载：[Pyrolusite's Resource Packs](https://pyrolusite.github.io/PyrolusitesResourcePacks/)
 
-备份：[gitee:Minimalistic-GTNH-repair](https://gitee.com/fogy-f/minimalistic-gtnh-repair)
+原作下载：[Minimalistic_GT_V_0.1.0.zip](https://www.mediafire.com/file/kp5b9ijj54a23w3/Minimalistic_GT_V_0.1.0.zip/file)
+
+续作：[github: Minimalistic-GTNH-repair](https://github.com/Fogy-F/Minimalistic-GTNH-repair)
+
+备份：[gitee: Minimalistic-GTNH-repair](https://gitee.com/fogy-f/minimalistic-gtnh-repair)
